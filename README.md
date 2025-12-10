@@ -16,7 +16,7 @@ This project demonstrates a fully functional calculator with a clean, iPhone-sty
 3. Click the buttons to perform calculations
 
 ## Screenshot
-![Calculator Screenshot](<img width="654" height="904" alt="Screenshot 2025-12-10 113354" src="https://github.com/user-attachments/assets/7c79b7d0-9a7b-4708-8f50-5446b1637f1f" />
+![Calculator Screenshot](https://postimg.cc/jDcY4sy4/9f1a6219
 )
 
 ## Technologies Used
